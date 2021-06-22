@@ -1,0 +1,11 @@
+C:\Users\pc-4\source\repos\LibraryJune22\bin\Debug\net5.0\LibraryJune22.deps.json
+C:\Users\pc-4\source\repos\LibraryJune22\bin\Debug\net5.0\LibraryJune22.dll
+C:\Users\pc-4\source\repos\LibraryJune22\bin\Debug\net5.0\ref\LibraryJune22.dll
+C:\Users\pc-4\source\repos\LibraryJune22\bin\Debug\net5.0\LibraryJune22.pdb
+C:\Users\pc-4\source\repos\LibraryJune22\obj\Debug\net5.0\LibraryJune22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc-4\source\repos\LibraryJune22\obj\Debug\net5.0\LibraryJune22.AssemblyInfoInputs.cache
+C:\Users\pc-4\source\repos\LibraryJune22\obj\Debug\net5.0\LibraryJune22.AssemblyInfo.cs
+C:\Users\pc-4\source\repos\LibraryJune22\obj\Debug\net5.0\LibraryJune22.csproj.CoreCompileInputs.cache
+C:\Users\pc-4\source\repos\LibraryJune22\obj\Debug\net5.0\LibraryJune22.dll
+C:\Users\pc-4\source\repos\LibraryJune22\obj\Debug\net5.0\ref\LibraryJune22.dll
+C:\Users\pc-4\source\repos\LibraryJune22\obj\Debug\net5.0\LibraryJune22.pdb
